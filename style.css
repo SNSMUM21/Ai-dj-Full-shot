@@ -1,0 +1,39 @@
+.heading
+{
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+}
+
+#h3
+{
+  font-family: 'Licorice', cursive;
+  font-family: 'Pushster', cursive;
+  font-family: 'Vujahday Script', cursive;
+}
+
+#note
+{
+  font-size: 15px;
+  color: black;
+  font-family: 'Licorice', cursive;
+  font-family: 'Pushster', cursive;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Vujahday Script', cursive;
+}
+body
+{
+  background-size: cover; 
+}
+  #song
+  {
+    font-size: 23px;
+    margin: 15px;
+  }
+    canvas 
+  {
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow: 5px 5px 5px #73cfd8;
+  }
+
